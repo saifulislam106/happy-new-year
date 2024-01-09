@@ -1,0 +1,248 @@
+* {font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
+  }
+   .banner-img{
+    background-image: url(../images/Banner\ Image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100vh; 
+    justify-content: center;
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  .banner-t1{
+  color:#FFF;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  margin-top: 150px;
+  }
+  .banner-t2{
+  color:#FFF;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px; 
+  }
+  
+  .OFF{
+    color: #F00;
+  text-align: center;
+  font-size: 88px;
+  font-weight: 700;
+  }
+  .deals{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .cag{
+    color: #070211;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+  
+  }
+  .n-img{
+  justify-content: center;
+  display: flex;
+  /*width: 100%;
+  max-width: 1600px;*/
+  margin: 0 auto;
+  padding-bottom: 120px;
+  
+  }
+  .party-img{
+    background-image: url(../images/Vectorrr.png);
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100vh; 
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+    border-radius: 10px
+  }
+  .party-hd{
+    color: #FFF;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 7.04px;
+  padding-left: 100px;
+  }
+  .party-text{
+    color: rgba(255, 255, 255, 0.80);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px; 
+  padding-left: 100px;
+  }
+  .Join{
+    color:#FFF;
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+  }
+  .ny-img{
+    margin-top: 100px;
+  }
+  .bg-color{
+  width: 1320px;
+  height: 482px;
+  background-color:rgba(145, 13, 13, 0);
+  }
+  .GIFTS-con{
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+  }
+  .GIFTS{
+  color: #F00;
+  font-size: 24px;
+  font-weight: 500;
+  position: relative;
+  top: 36px;
+  }
+  .GIFTS-hd{
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  position: relative;
+  top: 24px;
+  }
+  .GIFTS-text{
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  width: 896px;
+  }
+  .img-sec1{
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  }
+  .img-sec2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .last-sec{
+    background-color: rgb(246, 232, 243);
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+    height: 100vh;
+    margin-top: 120px;
+    border-radius: 16px;
+  }
+  .last-text{
+    text-align: center;
+  }
+  .last-text h1{
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+  }
+  .last-text{
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  width: 896px;
+  }
+  .email{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+  }
+  #footer-sec{
+    background-color: #070211;height: 100vh;
+    margin-top: 120px;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 1600px;
+  }
+  .top{
+    color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500px;
+  line-height: 40px;
+  width: 82%;
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  }
+  .icon-1{
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  padding: 32px 16px 0 0;
+  }
+  .icon-2{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    padding: 32px 16px 0 0;
+  }
+  .call{
+    display: flex;
+    justify-content: baseline;
+  }
+  .web{
+    display: flex;
+  }
+  .icon-bar{
+    justify-content: center;
+    display: flex;
+    padding: 20px 0;
+    ;
+  }
+  .img-f{
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+  margin: 12px;
+  }
+  .img-i{
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    margin: 12px;
+    }
+    .img-t{
+      width: 64px;
+      height: 64px;
+      flex-shrink: 0;
+      margin: 12px;
+      }
+     .img-l{
+        width: 64px;
+        height: 64px;
+        flex-shrink: 0;
+        margin: 12px;
+        }
+  .Unsubscribe{
+    color: #FFF;
+  font-size: 24px;
+  font-weight: 500;
+  width: 82%;
+  max-width: 1320px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 48px 0;
+  }
+  
